@@ -1,4 +1,4 @@
-package com.rakhi.BooksManagement;
+package com.rakhi.BooksManagement.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

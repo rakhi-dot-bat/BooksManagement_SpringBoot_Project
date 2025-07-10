@@ -11,7 +11,9 @@ import java.awt.print.Book;
 import java.util.ArrayList;
 import java.util.List;
 
+
 @RestController
+@RequestMapping("/api/books")
 public class BooksController {
 
     @Autowired
